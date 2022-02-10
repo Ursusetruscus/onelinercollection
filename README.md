@@ -1,1 +1,1 @@
-# onelinercollection
+# shortscriptcollection
